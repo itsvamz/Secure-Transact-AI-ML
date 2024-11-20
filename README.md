@@ -40,4 +40,4 @@ F1 Score: 96.08%
 Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
 
 # Liscence
-All rights reserved. - Vamika Mendiratta
+Distributed under the MIT License. See LICENSE for more information.
